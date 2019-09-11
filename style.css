@@ -1,0 +1,64 @@
+body{background-image: url('/img/tri4.png')
+
+}
+
+.main{
+    width: 50%;
+    height: 70%;
+    margin: 20px 150px 20px 150px;
+    
+    
+    
+
+}
+.Logo{
+    width:55%;
+    background-color: grey;
+    margin-left:20%;
+    margin-top:10%;
+    margin-bottom:10%;
+    padding-top:1%;
+}
+
+div{
+    width: 100%;
+    padding: 3px ;
+
+    margin: 20px 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+    /* padding-left: 20px; */
+}
+
+h1 {
+    color:white ;
+    /* margin-right: 150px; */
+    margin-left: 30%;
+
+
+}
+table{
+    background-color:brown;
+    box-align:center;
+    margin-left: 30%;
+    
+
+}
+td{
+    float:center;
+}
+
+
+
+fieldset{
+   background-color:brown;
+}
+
+td{
+    color:whitesmoke;
+    
+}
+button{
+    
+    margin-left:45%;
+}

@@ -1,0 +1,91 @@
+body{background-image: url('/img/tri4.png')
+
+}
+
+.main{
+    width:60%;
+    margin-left:150px;   
+  
+    
+    
+    
+    
+
+}
+.Logo{
+    width:70%;
+    background-color: grey;
+    margin-left:20%;
+    margin-top:10%;
+    margin-bottom:10%;
+    padding-top:1%;
+}
+
+div{
+    width: 100%;
+    padding: 0.5px ;
+
+    margin: 20px 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+    /* padding-left: 20px; */
+}
+
+h2 {
+    color:rgb(14, 13, 13) ;
+    /* margin-right: 150px; */
+    margin-left: 15%;
+
+
+}
+table{
+    background-color:white ;
+    width:60%;
+    height: 40%;
+    
+   
+    
+
+}
+td{
+    float:center;
+}
+
+
+
+fieldset{
+   background-color:brown;
+   max-height: 30%;
+}
+
+td{
+    color:whitesmoke;
+    
+}
+button{
+    
+    margin-left:45%;
+}
+ul {
+    list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+       background-color: #7f7a7a;
+   }
+
+li {
+       float: left;
+   }
+
+li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 16px;
+       text-decoration: none;
+       }
+
+li a:hover {
+       background-color: #2c0202;
+           }
